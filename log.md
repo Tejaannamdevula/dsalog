@@ -20,3 +20,15 @@
 - [Larry](https://youtu.be/RaUlmTLLQzQ?si=1cmP9ZvAXjZZQtFv)
 
 ---
+
+## [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/)
+
+**Platform:** LeetCode
+**Date:** 02-09-2025
+
+### Resources
+
+- [Mike Exp](https://youtu.be/f7iKx5lpqJ8?si=oencc3avItcNlLUq)
+- [Larry](https://youtu.be/nTFi_WuVN-E?si=cO-L9DqWJcW-1FBP)
+
+---
