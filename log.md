@@ -32,3 +32,14 @@
 - [Larry](https://youtu.be/nTFi_WuVN-E?si=cO-L9DqWJcW-1FBP)
 
 ---
+
+## [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/)
+
+**Platform:** LeetCode
+**Date:** 03-09-2025
+
+### Resources
+
+- [Mike Exp Watch Full](https://youtu.be/f7iKx5lpqJ8?si=oencc3avItcNlLUq)
+
+---
