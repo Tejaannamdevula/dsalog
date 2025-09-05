@@ -43,3 +43,15 @@
 - [Mike Exp Watch Full](https://youtu.be/f7iKx5lpqJ8?si=oencc3avItcNlLUq)
 
 ---
+
+## [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/)
+
+**Platform:** LeetCode
+**Date:** 05-09-2025
+
+### Resources
+
+- [Larry Idea](https://youtu.be/VlKpJHC6CIo?si=ecnO_aiqO23O43hz)
+- [Mike Explanation](https://youtu.be/YLKbecs9LIU?si=Ux1GB-7B84xFzTCk)
+
+---
